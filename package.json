@@ -1,0 +1,9 @@
+{
+  "name": "mhubclient-js",
+  "version": "1.0.0",
+  "description": "mhub client for javascript",
+  "main": "index.js",
+  "repository": "https://github.com/jquiterio/mhubclient-js.git",
+  "author": "Jorge Quiterio",
+  "license": "MIT"
+}
