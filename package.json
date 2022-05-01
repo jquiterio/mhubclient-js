@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/jquiterio/mhubclient-js.git",
   "author": "Jorge Quiterio",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "uuid": "^8.3.2"
+  }
 }
